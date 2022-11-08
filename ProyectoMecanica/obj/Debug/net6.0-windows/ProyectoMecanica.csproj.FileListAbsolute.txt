@@ -1,0 +1,17 @@
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\bin\Debug\net6.0-windows\ProyectoMecanica.exe
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\bin\Debug\net6.0-windows\ProyectoMecanica.deps.json
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\bin\Debug\net6.0-windows\ProyectoMecanica.runtimeconfig.json
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\bin\Debug\net6.0-windows\ProyectoMecanica.dll
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\bin\Debug\net6.0-windows\ProyectoMecanica.pdb
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\obj\Debug\net6.0-windows\ProyectoMecanica.csproj.AssemblyReference.cache
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\obj\Debug\net6.0-windows\ProyectoMecanica.Form1.resources
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\obj\Debug\net6.0-windows\ProyectoMecanica.csproj.GenerateResource.cache
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\obj\Debug\net6.0-windows\ProyectoMecanica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\obj\Debug\net6.0-windows\ProyectoMecanica.AssemblyInfoInputs.cache
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\obj\Debug\net6.0-windows\ProyectoMecanica.AssemblyInfo.cs
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\obj\Debug\net6.0-windows\ProyectoMecanica.csproj.CoreCompileInputs.cache
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\obj\Debug\net6.0-windows\ProyectoMecanica.dll
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\obj\Debug\net6.0-windows\refint\ProyectoMecanica.dll
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\obj\Debug\net6.0-windows\ProyectoMecanica.pdb
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\obj\Debug\net6.0-windows\ProyectoMecanica.genruntimeconfig.cache
+C:\Users\juan.guevara01\source\repos\ProyectoMecanica\ProyectoMecanica\obj\Debug\net6.0-windows\ref\ProyectoMecanica.dll
